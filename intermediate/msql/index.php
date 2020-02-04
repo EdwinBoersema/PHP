@@ -1,6 +1,6 @@
 <?php
-require('config/db.php');
 require('config/config.php');
+require('config/db.php');
 
 // create query
 $query = 'SELECT * FROM gear';
